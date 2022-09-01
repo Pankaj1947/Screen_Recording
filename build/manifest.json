@@ -1,0 +1,14 @@
+{
+  "name":"Screen Recording",
+  "description":"Screen Record or take Screenshot",
+  "version":"1.0",
+  "manifest_version":3,
+  "action":{
+    "default_title":"Screen Recording",
+    "default_popup":"index.html",
+    "default_icon":{
+      "16":"logo192.png",
+      "128": "logo192.png"
+    }
+  }
+}
